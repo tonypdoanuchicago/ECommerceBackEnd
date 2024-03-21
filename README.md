@@ -6,7 +6,7 @@ E-Commerce Backend Challenge
  Description:  This is the read me file for the thirteenth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
 
  GitHub Video URL - Go to source file and download to view
-<a href='https://github.com/tonypdoanuchicago/SQLChallengeEmployeeTracker/blob/main/Challenge_13_Video.mov'>Video</a>
+<a href='https://github.com/tonypdoanuchicago/ECOMMERCEBACKEND/blob/main/Challenge_13_Video.mov'>Video</a>
 
 GitHub Repo
 https://github.com/tonypdoanuchicago/ECOMMERCEBACKEND
